@@ -1,0 +1,8 @@
+file,ground_truth,prediction,confidence,p(ground_truth),2nd_choice
+Siamese_257.jpg,Siamese,Birman,0.967,0.0256,Siamese
+Birman_57.jpg,Birman,Siamese,0.9502,0.0495,Birman
+pug_74.jpg,Pug,Boxer,0.8518,0.1431,Pug
+Siamese_185.jpg,Siamese,Birman,0.7943,0.205,Siamese
+Siamese_183.jpg,Siamese,Birman,0.6908,0.307,Siamese
+Bengal_100.jpg,Bengal,Abyssinian,0.6725,0.3261,Bengal
+Bengal_143.jpg,Bengal,Abyssinian,0.5783,0.4211,Bengal
